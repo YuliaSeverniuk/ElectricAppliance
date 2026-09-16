@@ -6,6 +6,9 @@
 # dotenv files
 .env
 
+# log4net output
+logs/
+
 # User-specific files
 *.rsuser
 *.suo
